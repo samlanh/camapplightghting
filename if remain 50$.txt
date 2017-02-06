@@ -1,6 +1,0 @@
-305800.00
-290560.00
-290510.00
-50.00 payment later
-15290.00 total_payment
-50.00 = total_payment later
